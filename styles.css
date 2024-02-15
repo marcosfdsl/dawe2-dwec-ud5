@@ -50,18 +50,7 @@ body {
     padding-right: 12%;
     overflow-y: auto;
     background-color: rgba(255, 255, 255, 0.925);
-    animation: opacidad 0.4s linear;
     transition: all 0.4s ease-in-out;
-}
-
-@keyframes opacidad {
-    0% {
-        opacity: 30%;
-    }
-
-    100% {
-        opacity: 100%;
-    }
 }
 
 .negro {
